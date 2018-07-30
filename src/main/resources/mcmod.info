@@ -1,0 +1,9 @@
+[{
+  "modid": "tekkifysimplex",
+  "name": "Tekkify Simplex",
+  "description": "Lets you craft dirt into diamonds. This is a traditional mod that has existed for eons. It is ancient. The holy Notch created it. Jeb rainbowfied it. Dinnerbone made it upside down. Etc.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "tekkify.com",
+  "authorList": ["Luke"]
+}]
